@@ -93,8 +93,8 @@ The simulator demonstrates several important concepts in General Relativity and 
 
 | Side View | Top View |
 |------------|----------|
-| 
- |  <img width="2828" height="1616" alt="Screenshot 2026-07-09 011207" src="https://github.com/user-attachments/assets/95c141a6-6aae-4a00-a61b-a74b2a865411" />|
+| ![](images/side_view.png) | <img width="2828" height="1616" alt="Screenshot 2026-07-09 011207" src="https://github.com/user-attachments/assets/3c07612a-97e2-44e2-957d-ff8279899d55" />
+ |
 
 ---
 
