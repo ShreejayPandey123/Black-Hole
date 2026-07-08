@@ -1,3 +1,0 @@
-@echo off
-python -c "import shutil; shutil.copy(r'C:\Users\shree\.gemini\antigravity-ide\brain\e45c8542-538d-44e7-9b8f-32b46e0662c7\stellar_blackhole_1783497294545.png', r'C:\Users\shree\Desktop\New Blackhole Programs\web\stellar_bh.png'); shutil.copy(r'C:\Users\shree\.gemini\antigravity-ide\brain\e45c8542-538d-44e7-9b8f-32b46e0662c7\supermassive_blackhole_1783497304028.png', r'C:\Users\shree\Desktop\New Blackhole Programs\web\supermassive_bh.png'); shutil.copy(r'C:\Users\shree\.gemini\antigravity-ide\brain\e45c8542-538d-44e7-9b8f-32b46e0662c7\intermediate_blackhole_1783497315043.png', r'C:\Users\shree\Desktop\New Blackhole Programs\web\intermediate_bh.png'); print('All images copied!')"
-pause
