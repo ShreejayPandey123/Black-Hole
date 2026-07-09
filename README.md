@@ -87,15 +87,27 @@ The simulator demonstrates several important concepts in General Relativity and 
 
 ---
 
-# 🖼️ Gallery
+# 📸 Project Showcase
 
-> *(Replace these with your screenshots.)*
+## 🎬 Cinematic Perspective
 
-| Side View | Top View |
-|------------|----------|
-| <img width="2876" height="1612" alt="image" src="https://github.com/user-attachments/assets/3b7c01dc-33c4-4b08-97d3-98d6d20acf4f" />
- | <img width="2828" height="1616" alt="Screenshot 2026-07-09 011207" src="https://github.com/user-attachments/assets/3c07612a-97e2-44e2-957d-ff8279899d55" />|
+<p align="center">
+  <img width="2828" height="1616" alt="Screenshot 2026-07-09 011207" src="https://github.com/user-attachments/assets/3988578f-1b15-4863-bc27-1194e7d82f86" />
 
+</p>
+
+*A cinematic rendering of a rotating Kerr black hole featuring a glowing accretion disk, relativistic jet, and photon ring.*
+
+---
+
+## 🔬 Scientific Visualization
+
+<p align="center">
+  <img width="2876" height="1612" alt="Screenshot 2026-07-09 011958" src="https://github.com/user-attachments/assets/2bb9bed8-c477-4557-b331-0e1ddb79d8cb" />
+
+</p>
+
+*An interactive educational mode highlighting key Kerr black hole structures, including the event horizon, photon sphere, ISCO boundary, relativistic jet, and accretion disk.*
 ---
 
 # 🛠️ Technologies
