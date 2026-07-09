@@ -92,10 +92,9 @@ The simulator demonstrates several important concepts in General Relativity and 
 ## 🎬 Cinematic Perspective
 
 <p align="center">
-  <img width="2828" height="1616" alt="Screenshot 2026-07-09 011207" src="https://github.com/user-attachments/assets/3988578f-1b15-4863-bc27-1194e7d82f86" />
-
+  
 </p>
-
+<img width="2876" height="1612" alt="Screenshot 2026-07-09 011958" src="https://github.com/user-attachments/assets/2bb9bed8-c477-4557-b331-0e1ddb79d8cb" />
 *A cinematic rendering of a rotating Kerr black hole featuring a glowing accretion disk, relativistic jet, and photon ring.*
 
 ---
@@ -103,7 +102,7 @@ The simulator demonstrates several important concepts in General Relativity and 
 ## 🔬 Scientific Visualization
 
 <p align="center">
-  <img width="2876" height="1612" alt="Screenshot 2026-07-09 011958" src="https://github.com/user-attachments/assets/2bb9bed8-c477-4557-b331-0e1ddb79d8cb" />
+  <img width="2828" height="1616" alt="Screenshot 2026-07-09 011207" src="https://github.com/user-attachments/assets/3988578f-1b15-4863-bc27-1194e7d82f86" />
 
 </p>
 
